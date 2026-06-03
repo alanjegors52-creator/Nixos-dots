@@ -17,6 +17,7 @@ configuration {
     display-window:             "";
 	drun-display-format:        "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";
 	window-format:              "{w} · {c} · {t}";
+	terminal:					"alacritty";
 }
 
 /*****----- Global Properties -----*****/
