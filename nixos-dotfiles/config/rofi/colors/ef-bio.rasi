@@ -1,0 +1,10 @@
+/* Ef-Nordic-Blue */
+* {
+    background:     #121417; /* bg_main: deep, dark slate gray */
+    background-alt: #1a1d24; /* bg_dim: slightly lighter cool gray */
+    foreground:     #d8e1e8; /* fg_main: soft, frosted ice blue-white */
+    selected:       #1b3b5a; /* bg_mode_line: deep ocean blue */
+    selected-fg:    #eef5fa; /* fg_mode_line: bright, crisp ice white */
+    active:         #4c96d7; /* g_blue: vibrant electric blue for active states */
+    urgent:         #e05f65; /* red: soft coral red for alerts */
+}
