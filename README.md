@@ -1,4 +1,6 @@
 # Nixos-dots
+Quick Disclaimer, don't use these, I'm still working on it
+
 heyo weyo gungs, i decided to try nixos for a try and i dont think im going back.
 
 so uh, it has oxwm by tonybtw, i also just followed his guide, great yt, it has some stuff, hopefully i dont leak my logins n stuff again, i dont think i can cuz i cant put my mozilla file, technically i can but still.
